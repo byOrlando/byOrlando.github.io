@@ -6,6 +6,7 @@
     <description>Recent content on CANGMAO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>2013-{{ YEAR }}</copyright>
     <lastBuildDate>Sat, 14 May 2022 15:47:52 +0800</lastBuildDate><atom:link href="https://byorlando.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
